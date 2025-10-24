@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a builder at heart, passionate about the entire software development process from the initial idea all the way to the final cloud deployment.I'm also skilled in full-stack development and AWS cloud deployment,  my ReFocused project is the best example of this. I took that simple concept and built it out into its best version: a complete, secure app with its own complex AWS deployment and microservices.
 
 
