@@ -9,4 +9,3 @@ I'm a builder at heart, passionate about the entire software development process
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahdi-196&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-196&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
