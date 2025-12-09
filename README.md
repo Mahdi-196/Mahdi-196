@@ -1,5 +1,5 @@
 # About Me:
-I am an asprirng **Cloud Engineer** with a strong foundation in **Software Development**. I’m a builder at heart, passionate about the entire lifecycle from writing the initial application code to architecting the final cloud deployment.
+I am an asprirng **Cloud Engineer** with a strong foundation in Software Development. I’m a builder at heart, passionate about the entire lifecycle from writing the initial application code to architecting the final cloud deployment.
 
 Because I understand both the software *and* the infrastructure, I leverage my coding skills to script infrastructure automation and design AWS environments that are scalable, maintainable, and developer-friendly.
 
