@@ -3,7 +3,7 @@ I am an asprirng **Cloud Engineer** with a strong foundation in Software Develop
 
 Because I understand both the software *and* the infrastructure, I leverage my coding skills to script infrastructure automation and design AWS environments that are scalable, maintainable, and developer-friendly.
 
-My recent project, **ReFocused**, is the best example of this: I took a simple concept, developed the core application, and then architected a complete, secure **AWS microservices deployment** to run it at scale.
+My recent project, **ReFocused**, is the best example of this: I took a simple concept, developed the core application, and then architected a complete, secure AWS microservices deployment to run it at scale.
 
 # Tech Stack:
 <div align="left">
