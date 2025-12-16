@@ -34,9 +34,6 @@ My recent project, **ReFocused**, is the best example of this: I took a simple c
 
 # GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Mahdi-196&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-196&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-<br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mahdi-196&theme=dark&hide_border=true)
 
 </div>
